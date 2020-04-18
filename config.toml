@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://affectionate-curran-d1c0e6.netlify.app/"
 languageCode = "en-us"
 title = "Grynn Influencer"
 theme = "Influencer-hugo"
