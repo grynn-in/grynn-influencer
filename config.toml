@@ -1,4 +1,4 @@
-baseURL = "https://affectionate-curran-d1c0e6.netlify.app/"
+baseURL = "https://book.hugo.grr.fyi./"
 languageCode = "en-us"
 title = "Grynn Influencer"
 theme = "Influencer-hugo"
