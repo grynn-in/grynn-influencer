@@ -1,4 +1,4 @@
-baseURL = "https://book.hugo.grr.fyi./"
+baseURL = "https://book.hugo.grr.fyi/"
 languageCode = "en-us"
 title = "Grynn Influencer"
 theme = "Influencer-hugo"
